@@ -87,6 +87,7 @@
 - [Android] Adjust `TextBlock.TextDecorations` is not updating properly
 - Adjust `XamlBindingHelper` for `GridLength` and `TimeSpan`
 - Add missing `ListView` resources
+- [#2677] fixed flyout cannot be light dismissed by clicking outside of its content
 
 ## Release 2.0
 
